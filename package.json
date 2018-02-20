@@ -1,0 +1,12 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "creación de ejemplos con typescript para poder utilizar angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Martinez",
+  "license": "MIT",
+  "dependencies": {}
+}
